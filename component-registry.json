@@ -1,0 +1,9 @@
+{
+  "registry": [
+    { "name": "NavbarClassic", "category": "navigation", "description": "Standard logo-left, links-right navigation with mobile drawer." },
+    { "name": "HeroSplit", "category": "heroes", "description": "50/50 split with image on right, typography on left." },
+    { "name": "TrustBar", "category": "sections", "description": "Horizontal bar displaying partner logos or key trust metrics." },
+    { "name": "FeatureGrid", "category": "sections", "description": "Grid of icons and text highlighting business features." },
+    { "name": "FooterModern", "category": "footers", "description": "Multi-column footer with brand statement and links." }
+  ]
+}

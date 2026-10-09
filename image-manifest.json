@@ -1,0 +1,6 @@
+{
+  "images": [
+    { "id": "hero-showroom", "purpose": "Homepage hero", "prompt": "Premium contemporary furniture showroom in Zambia, elegant upholstered sofa arrangement, warm natural daylight." },
+    { "id": "product-sofa", "purpose": "Catalogue preview", "prompt": "High-quality leather sofa isolated in an aesthetic living space." }
+  ]
+}
